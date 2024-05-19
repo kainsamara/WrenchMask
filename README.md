@@ -14,6 +14,6 @@
 
 Гайд по сборке https://github.com/n3m351d4/Wrench_mask/blob/master/WrenchMaskExplained.pdf
 
-Делал из этой маски https://aliexpress.ru/item/4000207305528.html
+Делал из этой маски https://aliexpress.ru/item/32966291466.html?sku_id=66543649187
 
 ![Wiring](https://github.com/kainsamara/WrenchMask/blob/master/Wiring.png)
